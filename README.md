@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![skydowx's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydowx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![skydowx's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydowx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skydowx&show_icons=true&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skydowx&show_icons=true&theme=dark)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydowx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydowx&show_icons=true&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
