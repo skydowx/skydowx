@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![skydowx's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydowx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skydowx&show_icons=true&theme=dark)](https://git.io/streak-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skydowx&show_icons=true&theme=dark&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [Testfuse](https://testfuse.com)
+- 🌱 I’m currently learning RAGs and Go programming
+- 👯 I’m looking to collaborate on Machine Learning and AI Projects
+- 💬 Ask me about Machine Learning and System Design 
+- 📫 How to reach me: Linkedin
+- ⚡ Fun fact: My instructor stole the [final painting](https://imgur.com/a/qol8CeJ) I made in an Art course that I took at University.
