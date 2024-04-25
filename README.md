@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Testfuse](https://testfuse.com)
+- 🔭 I’m currently building [Testfuse](https://testfuse.com)
 - 🌱 I’m currently learning RAGs and Go programming
 - 👯 I’m looking to collaborate on Machine Learning and AI Projects
 - 💬 Ask me about Machine Learning and System Design 
